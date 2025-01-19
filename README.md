@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priti Jadhav</h1>
+<h1 align="center">Hello, I'm Priti Jadhav</h1>
 <h3 align="center">A passionate MERN developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
